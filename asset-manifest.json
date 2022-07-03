@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/passgen/static/css/main.b34c5dc9.css",
+    "main.js": "/passgen/static/js/main.85aaad4e.js",
+    "static/media/eye-solid.svg": "/passgen/static/media/eye-solid.60cdf6611cb5a552e7d3.svg",
+    "index.html": "/passgen/index.html",
+    "main.b34c5dc9.css.map": "/passgen/static/css/main.b34c5dc9.css.map",
+    "main.85aaad4e.js.map": "/passgen/static/js/main.85aaad4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34c5dc9.css",
+    "static/js/main.85aaad4e.js"
+  ]
+}
